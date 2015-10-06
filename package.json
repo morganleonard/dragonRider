@@ -1,0 +1,15 @@
+{
+  "name": "dragonRider",
+  "version": "0.0.1",
+  "description": "a string with a sweet picture of a warrior riding a dragon",
+  "main": "dragonRider.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganleonard/dragonRider.git"
+  },
+  "author": "Morgan Leonard <morganleonardpublic@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/morganleonard/dragonRider/issues"
+  },
+  "homepage": "https://github.com/morganleonard/dragonRider"
+}
