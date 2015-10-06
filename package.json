@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "a string with a sweet picture of a warrior riding a dragon",
   "main": "dragonRider.js",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/morganleonard/dragonRider.git"
